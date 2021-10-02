@@ -26,3 +26,4 @@ Front-end display (0.2):
     - User-configurable parameters at top, results pane at bottom
     - Two circles representing min and max range
 
+@3m mark 
